@@ -1,6 +1,6 @@
 Name:		texlive-sexam
 Version:	46628
-Release:	1
+Release:	2
 Summary:	Package for typesetting arabic exam scripts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sexam
