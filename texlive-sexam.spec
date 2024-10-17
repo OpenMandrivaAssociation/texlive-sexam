@@ -3,7 +3,7 @@ Version:	46628
 Release:	2
 Summary:	Package for typesetting arabic exam scripts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sexam
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/sexam
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sexam.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sexam.doc.r%{version}.tar.xz
